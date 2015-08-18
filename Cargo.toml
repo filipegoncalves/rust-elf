@@ -1,0 +1,4 @@
+[package]
+name = "rust-elf"
+version = "0.1.0"
+authors = ["Filipe Goncalves <filipe@codinghighway.com>"]
